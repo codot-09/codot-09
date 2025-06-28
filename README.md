@@ -49,20 +49,18 @@ Currently, I am exploring Rust for high-performance system development and delvi
 🛠️ My Backend Skills
 const BACKEND_ENGINEER = {
     OS: ["Linux (Arch, Ubuntu)", "MacOS"],
-    languages: ["Python", "Rust", "SQL", "JavaScript", "Bash", "Java"],
+    languages: ["Python", "SQL", "JavaScript", "Bash", "Java"],
     frameworks: {
         python: ["Django", "FastAPI", "Flask"],
-        rust: ["Actix Web", "Rocket"],
-        javascript: ["Node.js (Express)"]
+	java: ["Spring framework","Collections","Java Advanced"]
     },
     databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "SQLite"],
-    cloud_and_infra: ["Docker", "Kubernetes", "AWS (EC2, S3)", "Nginx", "RabbitMQ"],
+    cloud_and_infra: ["Docker", "Kubernetes", "AWS (EC2, S3)"],
     devOps: ["CI/CD Pipelines", "Monitoring & Logging (Prometheus, Grafana)"],
-    integrations: ["REST APIs", "GraphQL", "gRPC"],
+    integrations: ["REST APIs"],
     testing: ["PyTest", "UnitTest", "Postman"],
-    webScraping: ["aiohttp", "BeautifulSoup4", "Selenium"],
     algorithms: ["Efficient Data Structures", "Optimization for High Throughput"],
-    tools: ["Git", "Ngrok", "Jenkins"],
+    tools: ["Git"],
 };
 ```
 
